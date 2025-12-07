@@ -23,3 +23,5 @@ smart_attendance_eyes/
 └─ data/
     ├─ students/    # student images
     └─ models/      # trained LBPH model
+
+    uv pip freeze > requirements.txt
